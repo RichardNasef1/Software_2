@@ -1,0 +1,28 @@
+body{
+    background-color: blanchedalmond;
+}
+a{
+    text-decoration: none;
+        color: aquamarine;
+}
+a:hover{
+    text-decoration: underline;
+        color:black;
+}
+
+img{
+    border:2px solid;
+    color: red;
+    border-radius: 12px;
+
+}
+
+table{ border-collapse: collapse;}
+th,td {padding: 8px 16px;}
+tr:nth-child(even) {
+    background-color: chartreuse;
+}
+ul{
+
+list-style-type: none;
+}
