@@ -135,8 +135,10 @@ figcaption {
 }
 
 #contact-page {
-  background-color:#9fa4c4 ;
-  padding-top: 20px;
-  min-height: 100vh;
-  box-sizing: border-box;
+    background-color: #9fa4c4;
+    padding-top: 20px;
+    padding-left: 2em;
+    padding-right: 2em;
+    min-height: 100vh;
+    box-sizing: border-box;
 }
