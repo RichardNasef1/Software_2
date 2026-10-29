@@ -1,5 +1,11 @@
 html {
+  margin: 0;
+  min-height: 100%;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  margin:0;
 }
 
 header {
@@ -43,6 +49,7 @@ nav a:hover {
 
 main {
   background-color: #9fa4c4;
+  padding-top: 20px;
 }
 
 h2 {
@@ -66,6 +73,7 @@ figure img {
 
 figcaption {
   text-align: center;
+  padding: 10px;
 }
 
 .products-page {
@@ -100,9 +108,9 @@ figcaption {
   }
 }
 
-h4 {
-  margin: 0 0 26px 20px;
-  font-size: 2em;
+#contact-page h2 {
+  text-align: left;
+  margin-bottom: 26px;
 }
 
 .contact-info {
@@ -110,13 +118,20 @@ h4 {
   align-items: flex-start;
   gap: 2em;
 }
-
+.contact-info p {
+  flex: 3;
+}
 .Map {
-  width: 400px;
+  width: 40%;
   max-width: 100%;
   height: auto;
+  margin-right: 60px;
+  
 }
 
 #contact-page {
   background-color:#9fa4c4 ;
+  padding-top: 20px;
+  min-height: 100vh;
+  box-sizing: border-box;
 }
