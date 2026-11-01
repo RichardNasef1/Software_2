@@ -1,8 +1,9 @@
-'use strict';
+"use strict";
 
-const year = prompt('Give the year?');
-if (year % 4 === 0 && year % 100 !== 0 || year % 400 === 0) {
-document.querySelector('#target').innerText = `${year} is a leap year`;
-} else{
-    console.log('is not leap');
+const year = Number(prompt("Enter a year:"));
+
+if (year % 400 === 0 || (year % 4 === 0 && year % 100 !== 0)) {
+  document.querySelector("#result").textContent = `${year} is a leap year.`;
+} else {
+  document.querySelector("#result").textContent = `${year} is not a leap year.`;
 }

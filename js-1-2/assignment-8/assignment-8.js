@@ -1,12 +1,16 @@
-'use strict';
+"use strict";
 
-const start = 100;
-const end = 200;
+const startYear = Number(prompt("Enter the starting year:"));
+const endYear = Number(prompt("Enter the ending year:"));
 
-function checkLeapYear(year){
-    if (year % 4 === 0 && year % 100 !== 0 || year % 400 === 0) {
-document.querySelector('#target').inne = `${year} is a leap year`;
-} else{
-    console.log('is not leap');
+let result = "<ul>";
+
+for (let year = startYear; year <= endYear; year++) {
+  if (year % 400 === 0 || (year % 4 === 0 && year % 100 !== 0)) {
+    result += `<li>${year}</li>`;
+  }
 }
-}
+
+result += "</ul>";
+
+document.querySelector("#results").innerHTML = result;

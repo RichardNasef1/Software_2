@@ -7,13 +7,13 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 
 ## My links at users.metropolia.fi
 
-- HTML and CSS: https://users.metropolia.fi/~username/html-css/
-- JS modules 1 and 2: https://users.metropolia.fi/~username/js-1-2/
-- JS module 3: https://users.metropolia.fi/~username/js-3/
-- JS module 4: https://users.metropolia.fi/~username/js-4/
-- JS module 5: https://users.metropolia.fi/~username/js-5/
+- HTML and CSS: https://users.metropolia.fi/~richardn/html-css/
+- JS modules 1 and 2: https://users.metropolia.fi/~richardn/js-1-2/
+- JS module 3: https://users.metropolia.fi/~richardn/js-3/
+- JS module 4: https://users.metropolia.fi/~richardn/js-4/
+- JS module 5: https://users.metropolia.fi/~richardn/js-5/
 
-Add notes about any problems or extra features here.
+## My links at GitHub
 
 <!-- metropolia:progress:start -->
 
@@ -26,9 +26,16 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 1. Company website: ✔ completed, 4/4 test points (`html-css/index.html`)
 - 3. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS modules 1 and 2: Interactive programs and control structures (0 / 30 points)
+### JS modules 1 and 2: Interactive programs and control structures (22 / 30 points)
 
-- 5. Leap year: ✘ not completed yet, 0/3 test points (`js-1-2/assignment-5/assignment-5.js`)
-- 8. Leap years in a list: ✘ not completed yet, 0/3 test points (`js-1-2/assignment-8/assignment-8.js`)
+- 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
+- 2. Greeting: ✔ completed, 2/2 test points (`js-1-2/assignment-2/assignment-2.js`)
+- 3. Sum, product and average: ✔ completed, 3/3 test points (`js-1-2/assignment-3/assignment-3.js`)
+- 4. Sorting hat: ✔ completed, 3/3 test points (`js-1-2/assignment-4/assignment-4.js`)
+- 5. Leap year: ✔ completed, 3/3 test points (`js-1-2/assignment-5/assignment-5.js`)
+- 6. Square root: ✔ completed, 3/3 test points (`js-1-2/assignment-6/assignment-6.js`)
+- 7. Sum of dice: ✔ completed, 2/2 test points (`js-1-2/assignment-7/assignment-7.js`)
+- 8. Leap years in a list: ✔ completed, 3/3 test points (`js-1-2/assignment-8/assignment-8.js`)
+- 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 
 <!-- metropolia:progress:end -->
