@@ -2,9 +2,6 @@
 
 **Richard Nasef**
 
-One folder per module, and one folder per assignment inside it (`js-1-2/assignment-1/assignment-1.html` and `assignment-1.js`; JS module 4 uses the starter ZIP's names),
-as the course material asks. Upload the module folders to users.metropolia.fi and push this folder to GitHub.
-
 ## My links at users.metropolia.fi
 
 - HTML and CSS: https://users.metropolia.fi/~richardn/html-css/
@@ -14,6 +11,12 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 - JS module 5: https://users.metropolia.fi/~richardn/js-5/
 
 ## My links at GitHub
+
+- HTML and CSS: https://github.com/RichardNasef1/Software_2/tree/main/html-css
+- JS modules 1 and 2: https://github.com/RichardNasef1/Software_2/tree/main/js-1-2
+- JS module 3: https://github.com/RichardNasef1/Software_2/tree/main/js-3
+- JS module 4: https://github.com/RichardNasef1/Software_2/tree/main/js-4
+- JS module 5: https://github.com/RichardNasef1/Software_2/tree/main/js-5
 
 <!-- metropolia:progress:start -->
 
@@ -27,7 +30,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 2. Get feedback from the HTML+CSS checker: ✔ completed, 1/1 test points (`html-css/`)
 - 3. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS modules 1 and 2: Interactive programs and control structures (22 / 30 points)
+### JS modules 1 and 2: Interactive programs and control structures (25 / 30 points)
 
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
 - 2. Greeting: ✔ completed, 2/2 test points (`js-1-2/assignment-2/assignment-2.js`)
@@ -36,7 +39,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 5. Leap year: ✔ completed, 3/3 test points (`js-1-2/assignment-5/assignment-5.js`)
 - 6. Square root: ✔ completed, 3/3 test points (`js-1-2/assignment-6/assignment-6.js`)
 - 7. Sum of dice: ✔ completed, 2/2 test points (`js-1-2/assignment-7/assignment-7.js`)
-- 8. Leap years in a list: ✘ not completed yet, 0/3 test points (`js-1-2/assignment-8/assignment-8.js`)
+- 8. Leap years in a list: ✔ completed, 3/3 test points (`js-1-2/assignment-8/assignment-8.js`)
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
