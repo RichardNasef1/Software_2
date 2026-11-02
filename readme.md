@@ -14,8 +14,10 @@
 
 - HTML and CSS Directory: https://github.com/RichardNasef1/Software_2/tree/main/html-css
   - HTML and CSS Project: https://richardnasef1.github.io/Software_2/html-css/index1.html
+  
 
 - JS modules 1 and 2 Directory: https://github.com/RichardNasef1/Software_2/tree/main/js-1-2
+
   - Assignment 1- https://richardnasef1.github.io/Software_2/js-1-2/assignment-1/assignment-1.html
   - Assignment 2- https://richardnasef1.github.io/Software_2/js-1-2/assignment-2/assignment-2.html
   - Assignment 3- https://richardnasef1.github.io/Software_2/js-1-2/assignment-3/assignment-3.html
@@ -27,7 +29,9 @@
   - Assignment 9- https://richardnasef1.github.io/Software_2/js-1-2/assignment-9/assignment-9.html
   - Assignment 10(Not completed)- https://richardnasef1.github.io/Software_2/js-1-2/assignment-10/assignment-10.html
 
+
 - JS module 3 Directory: https://github.com/RichardNasef1/Software_2/tree/main/js-3
+
   - Assignment 1 (Not completed)- https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-1/assignment-1.html
   - Assignment 2 (Not completed)- https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-2/assignment-2.html
   - Assignment 3 (Not completed)- https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-3/assignment-3.html
@@ -39,7 +43,9 @@
   - Assignment 9 (Not completed)- https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-9/assignment-9.html
   - Assignment 10 (Not completed)- https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-10/assignment-10.html
 
+
 - JS module 4 Directory: https://github.com/RichardNasef1/Software_2/tree/main/js-4
+
  - Assignment 1 (Not completed)- https://github.com/RichardNasef1/Software_2/tree/main/js-4/t1/1.html
  - Assignment 2 (Not completed)- https://github.com/RichardNasef1/Software_2/tree/main/js-4/t2/2.html
  - Assignment 3 (Not completed)- https://github.com/RichardNasef1/Software_2/tree/main/js-4/t3/3.html
