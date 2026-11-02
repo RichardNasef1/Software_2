@@ -84,4 +84,9 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
+### JS module 4: DOM and events (0 / 35 points)
+
+- 5. Picture cards: ✘ not completed yet, 0/5 test points (`js-4/t5/5.js`)
+- 11. Picture cards with a modal: ✘ not completed yet, 0/6 test points (`js-4/t11/11.js`)
+
 <!-- metropolia:progress:end -->
