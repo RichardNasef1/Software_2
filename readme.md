@@ -21,12 +21,13 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 
 _This list is updated automatically by the Metropolia ICT extension._
 
-### HTML and CSS: company website (7 / 7 points)
+### HTML and CSS: company website (8 / 8 points)
 
 - 1. Company website: ✔ completed, 4/4 test points (`html-css/index.html`)
+- 2. Get feedback from the HTML+CSS checker: ✔ completed, 1/1 test points (`html-css/`)
 - 3. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS modules 1 and 2: Interactive programs and control structures (25 / 30 points)
+### JS modules 1 and 2: Interactive programs and control structures (22 / 30 points)
 
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
 - 2. Greeting: ✔ completed, 2/2 test points (`js-1-2/assignment-2/assignment-2.js`)
@@ -35,7 +36,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 5. Leap year: ✔ completed, 3/3 test points (`js-1-2/assignment-5/assignment-5.js`)
 - 6. Square root: ✔ completed, 3/3 test points (`js-1-2/assignment-6/assignment-6.js`)
 - 7. Sum of dice: ✔ completed, 2/2 test points (`js-1-2/assignment-7/assignment-7.js`)
-- 8. Leap years in a list: ✔ completed, 3/3 test points (`js-1-2/assignment-8/assignment-8.js`)
+- 8. Leap years in a list: ✘ not completed yet, 0/3 test points (`js-1-2/assignment-8/assignment-8.js`)
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
