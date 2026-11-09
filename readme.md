@@ -4,60 +4,60 @@
 
 ## My links at users.metropolia.fi
 
-- [HTML and CSS] (https://users.metropolia.fi/~richardn/html-css/)
-- [JS modules 1 and 2] (https://users.metropolia.fi/~richardn/js-1-2/)
-- [JS module 3] (https://users.metropolia.fi/~richardn/js-3/)
-- [JS module 4] (Not Completed) (https://users.metropolia.fi/~richardn/js-4/)
-- [JS module 5] (Not Completed) (https://users.metropolia.fi/~richardn/js-5/)
+- [HTML and CSS](https://users.metropolia.fi/~richardn/html-css/)
+- [JS modules 1 and 2](https://users.metropolia.fi/~richardn/js-1-2/)
+- [JS module 3](https://users.metropolia.fi/~richardn/js-3/)
+- [JS module 4(Not Completed)](https://users.metropolia.fi/~richardn/js-4/)
+- [JS module 5 (Not Completed)](https://users.metropolia.fi/~richardn/js-5/)
 
 ## My links at GitHub
 
-- [HTML and CSS Directory] (https://github.com/RichardNasef1/Software_2/tree/main/html-css)
-  - [HTML and CSS Project] (https://richardnasef1.github.io/Software_2/html-css/index1.html)
+- [HTML and CSS Directory](https://github.com/RichardNasef1/Software_2/tree/main/html-css)
+  - [HTML and CSS Project](https://richardnasef1.github.io/Software_2/html-css/index1.html)
   
 
-- [JS modules 1 and 2 Directory] (https://github.com/RichardNasef1/Software_2/tree/main/js-1-2)
+- [JS modules 1 and 2 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-1-2)
 
-  - [Assignment 1] (https://richardnasef1.github.io/Software_2/js-1-2/assignment-1/assignment-1.html)
-  - [Assignment 2] (https://richardnasef1.github.io/Software_2/js-1-2/assignment-2/assignment-2.html)
-  - [Assignment 3] (https://richardnasef1.github.io/Software_2/js-1-2/assignment-3/assignment-3.html)
-  - [Assignment 4]  (https://richardnasef1.github.io/Software_2/js-1-2/assignment-4/assignment-4.html)
-  - [Assignment 5] (https://richardnasef1.github.io/Software_2/js-1-2/assignment-5/assignment-5.html)
-  - [Assignment 6]  (https://richardnasef1.github.io/Software_2/js-1-2/assignment-6/assignment-6.html)
-  - [Assignment 7] (https://richardnasef1.github.io/Software_2/js-1-2/assignment-7/assignment-7.html)
-  - [Assignment 8] (https://richardnasef1.github.io/Software_2/js-1-2/assignment-8/assignment-8.html)
-  - [Assignment 9] (https://richardnasef1.github.io/Software_2/js-1-2/assignment-9/assignment-9.html)
-  - [Assignment 10] (https://richardnasef1.github.io/Software_2/js-1-2/assignment-10/assignment-10.html)
-
-
-- [JS module 3 Directory] (https://github.com/RichardNasef1/Software_2/tree/main/js-3)
-
-  - [Assignment 1]  (https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-1/assignment-1.html)
-  - [Assignment 2]  (https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-2/assignment-2.html)
-  - [Assignment 3]  (https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-3/assignment-3.html)
-  - [Assignment 4]  (https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-4/assignment-4.html)
-  - [Assignment 5]  (https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-5/assignment-5.html)
-  - [Assignment 6]  (https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-6/assignment-6.html)
-  - [Assignment 7]  (https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-7/assignment-7.html)
-  - [Assignment 8]  (https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-8/assignment-8.html)
-  - [Assignment 9]  (https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-9/assignment-9.html)
-  - [Assignment 10]  (https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-10/assignment-10.html)
+  - [Assignment 1](https://richardnasef1.github.io/Software_2/js-1-2/assignment-1/assignment-1.html)
+  - [Assignment 2](https://richardnasef1.github.io/Software_2/js-1-2/assignment-2/assignment-2.html)
+  - [Assignment 3](https://richardnasef1.github.io/Software_2/js-1-2/assignment-3/assignment-3.html)
+  - [Assignment 4](https://richardnasef1.github.io/Software_2/js-1-2/assignment-4/assignment-4.html)
+  - [Assignment 5](https://richardnasef1.github.io/Software_2/js-1-2/assignment-5/assignment-5.html)
+  - [Assignment 6](https://richardnasef1.github.io/Software_2/js-1-2/assignment-6/assignment-6.html)
+  - [Assignment 7](https://richardnasef1.github.io/Software_2/js-1-2/assignment-7/assignment-7.html)
+  - [Assignment 8](https://richardnasef1.github.io/Software_2/js-1-2/assignment-8/assignment-8.html)
+  - [Assignment 9](https://richardnasef1.github.io/Software_2/js-1-2/assignment-9/assignment-9.html)
+  - [Assignment 10](https://richardnasef1.github.io/Software_2/js-1-2/assignment-10/assignment-10.html)
 
 
-- [JS module 4 Directory] (https://github.com/RichardNasef1/Software_2/tree/main/js-4)
+- [JS module 3 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-3)
 
- - [Assignment 1 (Not completed)] (https://github.com/RichardNasef1/Software_2/tree/main/js-4/t1/1.html)
- - [Assignment 2 (Not completed)] (https://github.com/RichardNasef1/Software_2/tree/main/js-4/t2/2.html)
- - [Assignment 3 (Not completed)] (https://github.com/RichardNasef1/Software_2/tree/main/js-4/t3/3.html)
- - [Assignment 4 (Not completed)] (https://github.com/RichardNasef1/Software_2/tree/main/js-4/t4/4.html)
- - [Assignment 5 (Not completed)] (https://github.com/RichardNasef1/Software_2/tree/main/js-4/t5/5.html)
- - [Assignment 6 (Not completed)] (https://github.com/RichardNasef1/Software_2/tree/main/js-4/t6/6.html)
- - [Assignment 7 (Not completed)] (https://github.com/RichardNasef1/Software_2/tree/main/js-4/t7/7.html)
- - [Assignment 8 (Not completed)] (https://github.com/RichardNasef1/Software_2/tree/main/js-4/t8/8.html)
- - [Assignment 9 (Not completed)] (https://github.com/RichardNasef1/Software_2/tree/main/js-4/t9/9.html)
- - [Assignment 10 (Not completed)] (https://github.com/RichardNasef1/Software_2/tree/main/js-4/t10/10.html)
+  - [Assignment 1](https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-1/assignment-1.html)
+  - [Assignment 2](https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-2/assignment-2.html)
+  - [Assignment 3](https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-3/assignment-3.html)
+  - [Assignment 4](https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-4/assignment-4.html)
+  - [Assignment 5](https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-5/assignment-5.html)
+  - [Assignment 6](https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-6/assignment-6.html)
+  - [Assignment 7](https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-7/assignment-7.html)
+  - [Assignment 8](https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-8/assignment-8.html)
+  - [Assignment 9](https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-9/assignment-9.html)
+  - [Assignment 10](https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-10/assignment-10.html)
 
-- [JS module 5 Directory] (https://github.com/RichardNasef1/Software_2/tree/main/js-5)
+
+- [JS module 4 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-4)
+
+ - [Assignment 1 (Not completed)](https://github.com/RichardNasef1/Software_2/tree/main/js-4/t1/1.html)
+ - [Assignment 2 (Not completed)](https://github.com/RichardNasef1/Software_2/tree/main/js-4/t2/2.html)
+ - [Assignment 3 (Not completed)](https://github.com/RichardNasef1/Software_2/tree/main/js-4/t3/3.html)
+ - [Assignment 4 (Not completed)](https://github.com/RichardNasef1/Software_2/tree/main/js-4/t4/4.html)
+ - [Assignment 5 (Not completed)](https://github.com/RichardNasef1/Software_2/tree/main/js-4/t5/5.html)
+ - [Assignment 6 (Not completed)](https://github.com/RichardNasef1/Software_2/tree/main/js-4/t6/6.html)
+ - [Assignment 7 (Not completed)](https://github.com/RichardNasef1/Software_2/tree/main/js-4/t7/7.html)
+ - [Assignment 8 (Not completed)](https://github.com/RichardNasef1/Software_2/tree/main/js-4/t8/8.html)
+ - [Assignment 9 (Not completed)](https://github.com/RichardNasef1/Software_2/tree/main/js-4/t9/9.html)
+ - [Assignment 10 (Not completed)](https://github.com/RichardNasef1/Software_2/tree/main/js-4/t10/10.html)
+
+- [JS module 5 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-5)
 
 <!-- metropolia:progress:start -->
 
