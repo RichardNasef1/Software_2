@@ -15,7 +15,7 @@
 - [HTML and CSS Directory](https://github.com/RichardNasef1/Software_2/tree/main/html-css)
   - [HTML and CSS Project](https://richardnasef1.github.io/Software_2/html-css/index1.html)
   
-
+### JS Modules 1 and 2
 - [JS modules 1 and 2 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-1-2)
 
   - [Assignment 1](https://richardnasef1.github.io/Software_2/js-1-2/assignment-1/assignment-1.html)
@@ -29,7 +29,7 @@
   - [Assignment 9](https://richardnasef1.github.io/Software_2/js-1-2/assignment-9/assignment-9.html)
   - [Assignment 10](https://richardnasef1.github.io/Software_2/js-1-2/assignment-10/assignment-10.html)
 
-
+### JS Modules 3
 - [JS module 3 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-3)
 
   - [Assignment 1](https://richardnasef1.github.io/Software_2/js-3/assignment-1/assignment-1.html)
@@ -43,7 +43,7 @@
   - [Assignment 9](https://richardnasef1.github.io/Software_2/js-3/assignment-9/assignment-9.html)
   - [Assignment 10](https://richardnasef1.github.io/Software_2/js-3/assignment-10/assignment-10.html)
 
-
+### JS Modules 4
 - [JS module 4 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-4)
 
  - [Assignment 1 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-1/assignment-1.html)
@@ -57,6 +57,7 @@
  - [Assignment 9 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-9/assignment-9.html)
  - [Assignment 10 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-10/assignment-10.html)
 
+### JS Modules 5
 - [JS module 5 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-5)
 
 <!-- metropolia:progress:start -->
