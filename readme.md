@@ -18,30 +18,30 @@
 
 - JS modules 1 and 2 Directory: https://github.com/RichardNasef1/Software_2/tree/main/js-1-2
 
-  - Assignment 1- https://richardnasef1.github.io/Software_2/js-1-2/assignment-1/assignment-1.html
-  - Assignment 2- https://richardnasef1.github.io/Software_2/js-1-2/assignment-2/assignment-2.html
-  - Assignment 3- https://richardnasef1.github.io/Software_2/js-1-2/assignment-3/assignment-3.html
-  - Assignment 4-  https://richardnasef1.github.io/Software_2/js-1-2/assignment-4/assignment-4.html
-  - Assignment 5- https://richardnasef1.github.io/Software_2/js-1-2/assignment-5/assignment-5.html
-  - Assignment 6- https://richardnasef1.github.io/Software_2/js-1-2/assignment-6/assignment-6.html  
-  - Assignment 7- https://richardnasef1.github.io/Software_2/js-1-2/assignment-7/assignment-7.html
-  - Assignment 8- https://richardnasef1.github.io/Software_2/js-1-2/assignment-8/assignment-8.html
-  - Assignment 9- https://richardnasef1.github.io/Software_2/js-1-2/assignment-9/assignment-9.html
-  - Assignment 10(Not completed)- https://richardnasef1.github.io/Software_2/js-1-2/assignment-10/assignment-10.html
+  - [Assignment 1]- https://richardnasef1.github.io/Software_2/js-1-2/assignment-1/assignment-1.html
+  - [Assignment 2]- https://richardnasef1.github.io/Software_2/js-1-2/assignment-2/assignment-2.html
+  - [Assignment 3]- https://richardnasef1.github.io/Software_2/js-1-2/assignment-3/assignment-3.html
+  - [Assignment 4]-  https://richardnasef1.github.io/Software_2/js-1-2/assignment-4/assignment-4.html
+  - [Assignment 5]- https://richardnasef1.github.io/Software_2/js-1-2/assignment-5/assignment-5.html
+  - [Assignment 6]- https://richardnasef1.github.io/Software_2/js-1-2/assignment-6/assignment-6.html  
+  - [Assignment 7]- https://richardnasef1.github.io/Software_2/js-1-2/assignment-7/assignment-7.html
+  - [Assignment 8]- https://richardnasef1.github.io/Software_2/js-1-2/assignment-8/assignment-8.html
+  - [Assignment 9]- https://richardnasef1.github.io/Software_2/js-1-2/assignment-9/assignment-9.html
+  - [Assignment 10]- https://richardnasef1.github.io/Software_2/js-1-2/assignment-10/assignment-10.html
 
 
 - JS module 3 Directory: https://github.com/RichardNasef1/Software_2/tree/main/js-3
 
-  - Assignment 1 - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-1/assignment-1.html
-  - Assignment 2 - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-2/assignment-2.html
-  - Assignment 3 - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-3/assignment-3.html
-  - Assignment 4 - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-4/assignment-4.html
-  - Assignment 5 - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-5/assignment-5.html
-  - Assignment 6 - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-6/assignment-6.html
-  - Assignment 7 - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-7/assignment-7.html
-  - Assignment 8 - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-8/assignment-8.html
-  - Assignment 9 - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-9/assignment-9.html
-  - Assignment 10 - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-10/assignment-10.html
+  - [Assignment 1] - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-1/assignment-1.html
+  - [Assignment 2] - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-2/assignment-2.html
+  - [Assignment 3] - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-3/assignment-3.html
+  - [Assignment 4] - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-4/assignment-4.html
+  - [Assignment 5] - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-5/assignment-5.html
+  - [Assignment 6] - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-6/assignment-6.html
+  - [Assignment 7] - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-7/assignment-7.html
+  - [Assignment 8] - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-8/assignment-8.html
+  - [Assignment 9] - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-9/assignment-9.html
+  - [Assignment 10] - https://github.com/RichardNasef1/Software_2/tree/main/js-3/assignment-10/assignment-10.html
 
 
 - JS module 4 Directory: https://github.com/RichardNasef1/Software_2/tree/main/js-4
