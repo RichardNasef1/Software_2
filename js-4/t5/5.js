@@ -113,7 +113,7 @@ for(const pic of picArray){
   p.innerText = pic.description;
 
   const article = document.createElement('article');
-  article.class = 'card';
+  article.classList.add('card');
 
   article.append(h2, figure, p);
   document.querySelector('#pictures').append(article);

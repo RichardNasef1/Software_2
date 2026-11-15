@@ -7,8 +7,8 @@
 - [HTML and CSS](https://users.metropolia.fi/~richardn/html-css/)
 - [JS modules 1 and 2](https://users.metropolia.fi/~richardn/js-1-2/)
 - [JS module 3](https://users.metropolia.fi/~richardn/js-3/)
-- [JS module 4(Not Completed)](https://users.metropolia.fi/~richardn/js-4/)
-- [JS module 5 (Not Completed)](https://users.metropolia.fi/~richardn/js-5/)
+- [JS module 4(10/11)](https://users.metropolia.fi/~richardn/js-4/)
+- [JS module 5 (3/6)](https://users.metropolia.fi/~richardn/js-5/)
 
 ## My links at GitHub
 
@@ -46,19 +46,26 @@
 ### JS Modules 4
 - [JS module 4 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-4)
 
- - [Assignment 1 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-1/assignment-1.html)
- - [Assignment 2 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-2/assignment-2.html)
- - [Assignment 3 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-3/assignment-3.html)
- - [Assignment 4 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-4/assignment-4.html)
- - [Assignment 5 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-5/assignment-5.html)
- - [Assignment 6 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-6/assignment-6.html)
- - [Assignment 7 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-7/assignment-7.html)
- - [Assignment 8 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-8/assignment-8.html)
- - [Assignment 9 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-9/assignment-9.html)
- - [Assignment 10 (Not completed)](https://richardnasef1.github.io/Software_2/js-4/assignment-10/assignment-10.html)
+ - [Assignment 1](https://richardnasef1.github.io/Software_2/js-4/t1/1.html)
+ - [Assignment 2](https://richardnasef1.github.io/Software_2/js-4/t2/2.html)
+ - [Assignment 3](https://richardnasef1.github.io/Software_2/js-4/t3/3.html)
+ - [Assignment 4](https://richardnasef1.github.io/Software_2/js-4/t4/4.html)
+ - [Assignment 5](https://richardnasef1.github.io/Software_2/js-4/t5/5.html)
+ - [Assignment 6](https://richardnasef1.github.io/Software_2/js-4/t6/6.html)
+ - [Assignment 7](https://richardnasef1.github.io/Software_2/js-4/t7/7.html)
+ - [Assignment 8](https://richardnasef1.github.io/Software_2/js-4/t8/8.html)
+ - [Assignment 9](https://richardnasef1.github.io/Software_2/js-4/t9/9.html)
+ - [Assignment 10](https://richardnasef1.github.io/Software_2/js-4/t10/10.html)
+ - [Assignment 11 (Not Completed)](https://richardnasef1.github.io/Software_2/js-4/t11/11.html)
 
 ### JS Modules 5
 - [JS module 5 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-5)
+- [Assignment 1](https://richardnasef1.github.io/Software_2/js-5/assignment-1/assignment-1.html)
+- [Assignment 2](https://richardnasef1.github.io/Software_2/js-5/assignment-2/assignment-1.html)
+- [Assignment 3](https://richardnasef1.github.io/Software_2/js-5/assignment-3/assignment-1.html)
+- [Assignment 4](https://richardnasef1.github.io/Software_2/js-5/assignment-4/assignment-1.html)
+- [Assignment 5](https://richardnasef1.github.io/Software_2/js-5/assignment-5/assignment-1.html)
+- [Assignment 6](https://richardnasef1.github.io/Software_2/js-5/assignment-6/assignment-1.html)
 
 <!-- metropolia:progress:start -->
 
@@ -100,9 +107,25 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Voting: ✔ completed, 8/8 test points (`js-3/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS module 4: DOM and events (0 / 35 points)
+### JS module 4: DOM and events (26 / 35 points)
 
-- 5. Picture cards: ✘ not completed yet, 0/5 test points (`js-4/t5/5.js`)
+- 1. Add a list with innerHTML: ✔ completed, 2/2 test points (`js-4/t1/1.js`)
+- 2. Add a list with createElement(): ✔ completed, 2/2 test points (`js-4/t2/2.js`)
+- 3. A list from an array: ✔ completed, 2/2 test points (`js-4/t3/3.js`)
+- 4. Options from an array of objects: ✔ completed, 2/2 test points (`js-4/t4/4.js`)
+- 5. Picture cards: ✔ completed, 5/5 test points (`js-4/t5/5.js`)
+- 6. Button click: ✔ completed, 1/1 test points (`js-4/t6/6.js`)
+- 7. Hover effect: ✔ completed, 2/2 test points (`js-4/t7/7.js`)
+- 8. Calculator: ✔ completed, 4/4 test points (`js-4/t8/8.js`)
+- 9. Calculator with one field: ✔ completed, 4/4 test points (`js-4/t9/9.js`)
+- 10. Read a form: ✔ completed, 2/2 test points (`js-4/t10/10.js`)
 - 11. Picture cards with a modal: ✘ not completed yet, 0/6 test points (`js-4/t11/11.js`)
+
+### JS module 5: AJAX (12.5 / 23 points)
+
+- 1. TV series search form: ✔ completed, 2/2 test points (`js-5/assignment-1/assignment-1.html`)
+- 2. Fetch the search results: ✔ completed, 3/3 test points (`js-5/assignment-2/assignment-2.js`)
+- 3. Show the results on the page: ✔ completed, 7/7 test points (`js-5/assignment-3/assignment-3.js`)
+- 4. Default image: ◐ partially completed, 0.5/2 test points (`js-5/assignment-4/assignment-4.js`)
 
 <!-- metropolia:progress:end -->
