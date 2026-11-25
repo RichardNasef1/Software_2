@@ -56,16 +56,18 @@
  - [Assignment 8](https://richardnasef1.github.io/Software_2/js-4/t8/8.html)
  - [Assignment 9](https://richardnasef1.github.io/Software_2/js-4/t9/9.html)
  - [Assignment 10](https://richardnasef1.github.io/Software_2/js-4/t10/10.html)
- - [Assignment 11 (Not Completed)](https://richardnasef1.github.io/Software_2/js-4/t11/11.html)
+
+### Python Flask Server
+  -[Assignment 1]
+  -[Assignment 3]
 
 ### JS Modules 5
 - [JS module 5 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-5)
+
 - [Assignment 1](https://richardnasef1.github.io/Software_2/js-5/assignment-1/assignment-1.html)
 - [Assignment 2](https://richardnasef1.github.io/Software_2/js-5/assignment-2/assignment-1.html)
 - [Assignment 3](https://richardnasef1.github.io/Software_2/js-5/assignment-3/assignment-1.html)
-- [Assignment 4](https://richardnasef1.github.io/Software_2/js-5/assignment-4/assignment-1.html)
-- [Assignment 5](https://richardnasef1.github.io/Software_2/js-5/assignment-5/assignment-1.html)
-- [Assignment 6](https://richardnasef1.github.io/Software_2/js-5/assignment-6/assignment-1.html)
+
 
 <!-- metropolia:progress:start -->
 
@@ -121,6 +123,11 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Read a form: ✔ completed, 2/2 test points (`js-4/t10/10.js`)
 - 11. Picture cards with a modal: ✘ not completed yet, 0/6 test points (`js-4/t11/11.js`)
 - 12. Publish, push and submit your links: ✔ completed, 3/3 test points
+
+### Python Flask server (10 / 20 points)
+
+- 1. Prime number service: ✔ completed, 1/1 test points (`flask/`)
+- 3. Add words to the dictionary: ✔ completed, 1/1 test points (`flask/`)
 
 ### JS module 5: AJAX (12.5 / 23 points)
 
