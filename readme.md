@@ -58,8 +58,8 @@
  - [Assignment 10](https://richardnasef1.github.io/Software_2/js-4/t10/10.html)
 
 ### Python Flask Server
-  -[Assignment 1]
-  -[Assignment 3]
+  -[Assignment 1](https://github.com/RichardNasef1/Software_2/blame/main/flask/assignment-1/assignment-1.py)
+  -[Assignment 3](https://github.com/RichardNasef1/Software_2/blob/main/flask/assignment-3/assignment-3.py)
 
 ### JS Modules 5
 - [JS module 5 Directory](https://github.com/RichardNasef1/Software_2/tree/main/js-5)
